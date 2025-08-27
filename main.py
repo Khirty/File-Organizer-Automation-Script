@@ -17,6 +17,8 @@ extentions = {
     ".pptx": "School",
     ".mcpack": "Codes and Games",
     ".zip": "Codes and Games",
+    ".xml": "School",
+    ".mkv": "Videos",
 
 }
 
